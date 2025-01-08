@@ -1,4 +1,4 @@
-public class link {
+public class main {
 
     static class Node {
         int data;
